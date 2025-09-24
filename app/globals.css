@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(218, 221, 221);
+}
+
+.container{
+  max-width: 1250px;
+  width: 95px;
+  margin: 0 auto;
+}
